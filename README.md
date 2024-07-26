@@ -17,4 +17,5 @@
 * Save high score times and have a leader board
 * make it into a phone app
 * other mental math practice using percents, for example calulating a %10 of 5, or 5% of 60 or something like that. This is useful for calculation of sales and tips.
+* mental math with time, like 4:06 minus 20 minutes, or 59 minutes after 1:02 
 * 
