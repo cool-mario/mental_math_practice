@@ -16,4 +16,5 @@
 * use Tkinter to make a better user interface
 * Save high score times and have a leader board
 * make it into a phone app
-* other mental math practice using percents, for example calulating a %10 tip or %60 off item.
+* other mental math practice using percents, for example calulating a %10 of 5, or 5% of 60 or something like that. This is useful for calculation of sales and tips.
+* 
